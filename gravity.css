@@ -1,0 +1,7 @@
+@font-face {
+  font-family: Gravity;
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("gravity_normal.woff2") format("woff2");
+}
